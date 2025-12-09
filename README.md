@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Audrey!
 
-📺 experienced 2D Animator/2D Artist working on TV series that aired HBO MAX, Disney Channel, Apple TV+ ...<br/>
-🎓 Studied Animation at Université Laval, Quebec, Canada.<br/>
+📺 experienced 2D Animator/2D Artist working on TV series that aired on HBO MAX, Disney Channel, Apple TV+, ...<br/>
+🎓 studied animation at Université Laval, Quebec, Canada.<br/>
 🌱 currently learning Front-End Development on Codecademy<br/>
 📍 Canada based<br/>
 
