@@ -1,8 +1,8 @@
 ## 👋 Hi, I'm Audrey!
 
-📺 experienced [2D Animator/2D Artist](https://www.imdb.com/name/nm14267057/) working on cartoon TV series that aired on HBO MAX, Disney Channel, Apple TV+, ...<br/>
-🎓 studied animation at Université Laval, Quebec, Canada.<br/>
-🌱 currently learning Front-End Development on Codecademy<br/>
+📺 experienced [2D Animator/2D Artist](https://www.imdb.com/name/nm14267057/) working on cartoon TV series that aired on HBO MAX, Disney Channel, Apple TV+, etc.<br/>
+🎓 studied animation at Université Laval, QC, Canada.<br/>
+🌱 currently learning Front-End Development with Codecademy<br/>
 📍 Canada based<br/>
 
 ## 💻 tech stack<br/>
